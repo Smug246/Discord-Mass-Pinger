@@ -15,7 +15,7 @@
  
   <br>
   <br>
-  <img src="https://c.tenor.com/SJsfs0NRauYAAAAC/aesthetic.gif">
+  <img src="https://c.tenor.com/Z5lIBiOdagsAAAAC/purple-aesthetic-rain.gif">
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </div>
 
