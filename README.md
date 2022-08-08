@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  Discord Mass Pinger is a tool that allows you to ping lots of people in a specific guild multiple times!
+  Discord Mass Pinger is a tool that allows you to ping lots of people in a discord server multiple times!
 </h2>
 
 <div align="center">
