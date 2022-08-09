@@ -18,7 +18,7 @@
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </div>
 
-### Features:
+## 🌐 Features:
 
 ```
 - Ping anyone in a discord server
@@ -54,6 +54,7 @@ Once the words 'Selfbot is online' appear in the terminal you can type $massping
 ```
 You can simply stop the mass ping by typing $stop and the terminal will restart and the pinging will stop.
 ```
+Still don't quite understand how to set it up? [Click me!](https://discord.gg/PskF2YeXnd)
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 ## ⚙ Config
@@ -68,7 +69,7 @@ config = {
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
-## GUI
+## 🔱 GUI
 ![Terminal](https://i.imgur.com/giZ9w9t.png)
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
@@ -76,5 +77,3 @@ config = {
 ## Feel free to create an issue if you have a problem or you a pull request if you think something can be improved.                                                     
  
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-
-> Still don't quite understand how to set it up? [Click me!](https://discord.gg/PskF2YeXnd)
