@@ -21,18 +21,18 @@
 ## 📁 Setup
 
 ### 1. Python Installation
-`Install `[Python](https://www.python.org/)` and add it to `[path](https://datatofish.com/add-python-to-windows-path/).
+Install [Python](https://www.python.org/) and add it to [path](https://datatofish.com/add-python-to-windows-path/).
 ### 2. Download Files
-`Press the green box on the top right of your screen and then press download zip. Then extract the zip folder.`
+Press the green box on the top right of your screen and then press download zip. Then extract the zip folder.
 ### 2. Open setup.bat
-`This file will automatically install all the modules required to use this file.`
+This file will automatically install all the modules required to use this file.
 ### 3. Open main.py
-`Now open the main.py file and enter your own token and press enter. If you dont know how to do this `[press here](https://www.youtube.com/watch?v=YEgFvgg7ZPI)
+Now open the main.py file and enter your own token and press enter. If you dont know how to do this [press here](https://www.youtube.com/watch?v=YEgFvgg7ZPI)
 ### 4. How to mass ping
-`Once the words 'Selfbot is online' appear in the terminal you can go to a server of your choice and type $massping (amount) and then press enter and you will
-start seeing a lot of mentions.`
+Once the words 'Selfbot is online' appear in the terminal you can go to a server of your choice and type $massping (amount) and then press enter and you will
+start seeing a lot of mentions.
 ### 5. How to stop pinging
-`You can simply stop the mass ping by typing $stop and the terminal will restart and the pinging will stop.`
+You can simply stop the mass ping by typing $stop and the terminal will restart and the pinging will stop.
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
