@@ -15,9 +15,6 @@
   <br>
   <br>
   <img src="https://c.tenor.com/Z5lIBiOdagsAAAAC/purple-aesthetic-rain.gif">
-  <h2 align="center">
-    If you like this project consider giving it a ⭐
-  </h2>
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </div>
 
@@ -77,5 +74,8 @@ config = {
 ![Terminal](https://i.imgur.com/vFHIE5t.png)
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+<h2 align="center">
+    If you like this project consider giving it a ⭐
+  </h2>
 
 This mass pinger was made for educational purposes, all consequences caused by your actions are your responsibility and only you can be held accountable.
