@@ -31,9 +31,9 @@
 
 ## 📁 Setup
 
-### 1. Python Installation
+### 1. Python installation
 Install [Python](https://www.python.org/) and add it to [path](https://datatofish.com/add-python-to-windows-path/).
-### 2. Download Files
+### 2. Download files
 ```
 Press the green box named code on the top right of your screen and then press download zip. Then extract the zip folder onto your desktop.
 ```
