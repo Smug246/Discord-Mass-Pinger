@@ -74,6 +74,4 @@ config = {
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
-## Feel free to create an issue if you have a problem or you a pull request if you think something can be improved.                                                     
- 
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+## Feel free to create an issue if you have a problem or you can createa pull request if you think something can be improved.          
