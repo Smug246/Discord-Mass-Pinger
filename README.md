@@ -7,11 +7,11 @@
 </h2>
 
 <div align="center">
-  <img src="https://img.shields.io/github/languages/top/Smug246/Discord-Mass-Pinger?color=6d00c1&&?style=flat-square">
+  <img src="https://img.shields.io/github/languages/top/Smug246/Discord-Mass-Reporter?color=6d00c1&label=Python">
   <img src="https://img.shields.io/github/last-commit/Smug246/Discord-Mass-Pinger?color=6d00c1&&?style=flat-square">
   <img src="https://sonarcloud.io/api/project_badges/measure?color=6d00c1&project=Smug246_Discord-Mass-Pinger&metric=ncloc">
-  <img src="https://img.shields.io/github/stars/Smug246/Discord-Mass-Pinger?color=6d00c1&label=Stars&style=flat-square">
-  <img src="https://img.shields.io/github/forks/Smug246/Discord-Mass-Pinger?color=6d00c1&label=Forks&style=flat-square">
+  <img src="https://img.shields.io/github/stars/Smug246/Discord-Mass-Reporter?color=6d00c1&label=Stars">
+  <img src="https://img.shields.io/github/forks/Smug246/Discord-Mass-Reporter?color=6d00c1&label=Forks">
  
   <br>
   <br>
