@@ -18,9 +18,6 @@
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </div>
 
-**NOTE:** \
-This mass pinger was made for educational purposes, all consequences caused by your actions are your responsibility and only you can be held accountable.
-
 ## 🌐 Features:
 
 ```
@@ -78,4 +75,10 @@ config = {
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
-### Feel free to create an issue if you have a problem or you can createa pull request if you think something can be improved.          
+This mass pinger was made for educational purposes, all consequences caused by your actions are your responsibility and only you can be held accountable.
+
+<p align="center">
+ <b>If you like this project consider giving a ⭐
+<br>
+It motivates me to create more tools
+
