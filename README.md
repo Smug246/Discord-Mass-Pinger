@@ -34,6 +34,7 @@ This file will automatically install all the modules required to use this file.
 ```
 Now open the main.py file and enter your own token and press enter. 
 If you dont know how to do this watch this video -> https://www.youtube.com/watch?v=YEgFvgg7ZPI
+```
 
 ### 4. How to mass ping
 ```
