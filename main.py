@@ -8,9 +8,10 @@ from discord.ext import commands
 from colorama import Fore
 from pystyle import *
 
-intents = discord.Intents().all()
-Luna = discord.Client()
-Luna = commands.Bot(description="Luna Selfbot", command_prefix="$", self_bot=True, intents=intents, case_insensitive=True, guild_subscriptions=True)
+config = {
+    # If set to True there will be a 5 second delay between sending pings. This makes it less likely that discord will terminate your account. If set to False then there will be no delay.
+    'ratelimit' : False
+}
 
 banner1 ='''
                         ▄▄▄▄███▄▄▄▄      ▄████████    ▄████████    ▄████████        
@@ -42,6 +43,9 @@ print()
 
 token = input(f'{purple}[{Fore.RESET}{Fore.WHITE}+{Fore.RESET}{purple}]{Fore.RESET} Enter your token: ')
 
+def fetch_conf(e: str) -> str or bool | None:
+        return config.get(e)
+
 def banner2():
     print(Colorate.Diagonal(Colors.DynamicMIX((purple, dark)), Center.XCenter(banner1)))
     print('\n')
@@ -52,6 +56,10 @@ def slowtype(text: str, speed: float, newLine=True):
             sleep(speed)  
         if newLine:  
             print()
+
+intents = discord.Intents().all()
+Luna = discord.Client()
+Luna = commands.Bot(description="Luna Selfbot", command_prefix="$", self_bot=True, intents=intents, case_insensitive=True, guild_subscriptions=True)
 
 def Main():
     try:
@@ -94,17 +102,20 @@ async def on_command_error(self, error):
 @Luna.command(aliases=["mp"])
 async def massping(ctx, amount: int):
     await ctx.message.delete()
-
     members = [m.mention for m in ctx.guild.members]
+
     for _ in range(amount):
         users = random.sample(members, len(ctx.guild.members))
-        sleep(5)
         await ctx.send(" ".join(users))
+        if fetch_conf('ratelimit'):
+            sleep(5)
+        else:
+            pass
     print(f'{purple}[{Fore.RESET}{Fore.WHITE}+{Fore.RESET}{purple}]{Fore.RESET} Pinged {len(users)} Members!')
 
-@Luna.command(aliases=["stop", "sp"])
-async def shutdown(ctx):
-    exit()
+@Luna.command(aliases=["stop", "st", "shutdown"])
+async def restart():
+    os.system("main.py")
 
 if __name__ == '__main__':
     Main()
