@@ -24,7 +24,7 @@
 Install [Python](https://www.python.org/) and add it to [path](https://datatofish.com/add-python-to-windows-path/).
 ### 2. Download Files
 ```
-Press the green box on the top right of your screen and then press download zip. Then extract the zip folder.
+Press the green box named code on the top right of your screen and then press download zip. Then extract the zip folder onto your desktop.
 ```
 ### 2. Open setup.bat
 ```
