@@ -28,18 +28,16 @@ Press the green box on the top right of your screen and then press download zip.
 ```
 ### 2. Open setup.bat
 ```
-This file will automatically install all the modules required to use this file.
+Open the setup.bat file and will automatically install all the python libraries required to use this file.
 ```
 ### 3. Open main.py
 ```
 Now open the main.py file and enter your own token and press enter. 
 If you dont know how to do this watch this video -> https://www.youtube.com/watch?v=YEgFvgg7ZPI
 ```
-
 ### 4. How to mass ping
 ```
-Once the words 'Selfbot is online' appear in the terminal you can go to a server of your choice and type $massping (amount) and then press enter and you will
-start seeing a lot of mentions.
+Once the words 'Selfbot is online' appear in the terminal you can type $massping (amount) in any server and then press enter and the mass pinging will start.
 ```
 ### 5. How to stop pinging
 ```
