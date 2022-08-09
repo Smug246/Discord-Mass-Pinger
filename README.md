@@ -71,7 +71,7 @@ config = {
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 ## 🔱 GUI
-![Terminal](https://i.imgur.com/giZ9w9t.png)
+![Terminal](https://i.imgur.com/vFHIE5t.png)
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
