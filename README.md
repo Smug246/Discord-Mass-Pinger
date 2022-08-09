@@ -14,8 +14,7 @@
  
   <br>
   <br>
-  <img src="https://c.tenor.com/Z5lIBiOdagsAAAAC/purple-aesthetic-rain.gif">
-  \
+  <img src="https://c.tenor.com/Z5lIBiOdagsAAAAC/purple-aesthetic-rain.gif">\
   If you like this project consider giving a ⭐
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </div>
