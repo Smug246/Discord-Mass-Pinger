@@ -78,4 +78,4 @@ config = {
     If you like this project consider giving it a ⭐
   </h2>
 
-This mass pinger was made for educational purposes, all consequences caused by your actions are your responsibility and only you can be held accountable.
+This mass pinger was made for educational purposes, all consequences caused by your actions are your responsibility.
