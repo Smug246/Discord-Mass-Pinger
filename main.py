@@ -114,7 +114,7 @@ async def massping(ctx, amount: int):
     print(f'{purple}[{Fore.RESET}{Fore.WHITE}+{Fore.RESET}{purple}]{Fore.RESET} Pinged {len(users)} Members!')
 
 @Luna.command(aliases=["stop", "st", "shutdown"])
-async def restart():
+async def restart(ctx):
     os.system("main.py")
 
 if __name__ == '__main__':
