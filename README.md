@@ -54,7 +54,7 @@ Once the words 'Selfbot is online' appear in the terminal you can type $massping
 ```
 You can simply stop the mass ping by typing $stop and the terminal will restart and the pinging will stop.
 ```
-Still don't quite understand how to set it up? [Click me!](https://discord.gg/HWeThmwy2J)
+Still don't quite understand how to set it up? Make an issue or [Click me!](https://discord.gg/qqHM44c55h)
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 ## ⚙ Config
